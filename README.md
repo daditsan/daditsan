@@ -12,8 +12,8 @@ Hi there! I'm [Adytia Isanda](https://github.com/daditsan), a passionate softwar
 - JavaScript, TypeScript
 - React, Next.js
 - Node.js, Express
-- MongoDB, SQL
-- AI Engineering
+- MongoDB
+- SQL, PostgreSQL
 
 ## Contact Me
 

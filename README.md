@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [Adytia Isanda](https://github.com/daditsan), a passionate software developer with interests in web development, mobile applications, AI engineering, and more.
+Hi there! I'm [Adytia Isanda](https://github.com/daditsan), a passionate software developer with interests in web development, mobile applications, AI engineering, and more.
 
 <!--- ## 🚀 Projects
 
@@ -7,7 +7,7 @@ Hi there! 👋 I'm [Adytia Isanda](https://github.com/daditsan), a passionate so
 
 --->
 
-## 💻 Skills
+## Skills
 
 - JavaScript, TypeScript
 - React, Next.js
@@ -15,7 +15,7 @@ Hi there! 👋 I'm [Adytia Isanda](https://github.com/daditsan), a passionate so
 - MongoDB, SQL
 - AI Engineering
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: [dityaisanda@gmail.com](mailto:dityaisanda@gmail.com)
 - LinkedIn: [Adytia Isanda](www.linkedin.com/in/adytia-isanda-441a8a232)

@@ -10,7 +10,7 @@ Hi there! I'm [Adytia Isanda](https://github.com/daditsan), a passionate softwar
 ## Skills
 
 - JavaScript, TypeScript
-- React, Next.js
+- React, React Native, Next.js
 - Node.js, Express
 - MongoDB
 - SQL, PostgreSQL

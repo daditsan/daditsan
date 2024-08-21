@@ -19,9 +19,11 @@ Hi there! I'm [Adytia Isanda](https://github.com/daditsan), a passionate softwar
 
 - Email: [dityaisanda@gmail.com](mailto:dityaisanda@gmail.com)
 - LinkedIn: [Adytia Isanda](www.linkedin.com/in/adytia-isanda-441a8a232)
-
+- Wakatime: [Adytia Isanda](https://wakatime.com/@daditsan)
+  
 ## Miscellaneous
 
-- Wakatime: [Adytia Isanda](https://wakatime.com/@daditsan)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daditsan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daditsan&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions.

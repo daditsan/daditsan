@@ -20,4 +20,8 @@ Hi there! I'm [Adytia Isanda](https://github.com/daditsan), a passionate softwar
 - Email: [dityaisanda@gmail.com](mailto:dityaisanda@gmail.com)
 - LinkedIn: [Adytia Isanda](www.linkedin.com/in/adytia-isanda-441a8a232)
 
+## Miscellaneous
+
+- Wakatime: [Adytia Isanda](https://wakatime.com/@daditsan)
+
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions.

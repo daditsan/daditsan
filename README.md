@@ -9,14 +9,6 @@
 
 --->
 
-## Skills
-
-- JavaScript, TypeScript
-- React, React Native, Next.js
-- Node.js, Express
-- MongoDB
-- SQL, PostgreSQL
-
 ## Contact Me
 
 - Email: [dityaisanda@gmail.com](mailto:dityaisanda@gmail.com)

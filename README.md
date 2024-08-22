@@ -16,6 +16,7 @@
 - Wakatime: [Adytia Isanda](https://wakatime.com/@daditsan)
   
 ## Miscellaneous
+[![wakatime](https://wakatime.com/badge/user/018e7123-940e-483c-bd2f-00a729ba16f5.svg)](https://wakatime.com/@018e7123-940e-483c-bd2f-00a729ba16f5)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daditsan&layout=compact&theme=radical)
 

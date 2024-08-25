@@ -2,7 +2,7 @@
 <a href="mailto:dityaisanda@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="www.linkedin.com/in/adytia-isanda-441a8a232">
+<a href="https://id.linkedin.com/in/adytia-isanda-441a8a232">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.upwork.com/freelancers/~01d79509e0c94b23dc">

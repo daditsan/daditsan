@@ -1,6 +1,17 @@
+<div align="center">
+<a href="mailto:dityaisanda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="www.linkedin.com/in/adytia-isanda-441a8a232">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div> 
+
 <div align="center">  
   Hi there! I'm <a href="https://github.com/daditsan">Adytia Isanda</a>, a passionate software developer with interests in web development, mobile applications, AI engineering, and more.
+  Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions.
 </div>
+
 
 ## Tech Stacks
 <p align="center">
@@ -8,29 +19,16 @@
     <img src="https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,jest,mongodb,postgres,sequelize,redis,postman,supabase" />
   </a>
 </p>
-
-<!--- [![My Skills](https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,discord,jest,mongodb,postgres,sequelize,redis,postman,supabase,&theme=light)](https://skillicons.dev) --->
-
-<!--- ## 🚀 Projects
-
-- **[Project 1](https://github.com/your-username/project1)**: A brief description of what this project does.
-- **[Project 2](https://github.com/your-username/project2)**: A brief description of what this project does.
-
---->
-
-## Contact Me
-
-- Email: [dityaisanda@gmail.com](mailto:dityaisanda@gmail.com)
-- LinkedIn: [Adytia Isanda](www.linkedin.com/in/adytia-isanda-441a8a232)
-- Wakatime: [Adytia Isanda](https://wakatime.com/@daditsan)
   
 ## Miscellaneous
-[![wakatime](https://wakatime.com/badge/user/018e7123-940e-483c-bd2f-00a729ba16f5.svg)](https://wakatime.com/@018e7123-940e-483c-bd2f-00a729ba16f5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daditsan&layout=compact&theme=radical)
+<a href="https://github.com/daditsan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daditsan&show_icons=true&rank_icon=percentile&theme=tokyonight" />
+</a>
+<a href="https://github.com/daditsan/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daditsan&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daditsan&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=daditsan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions.
+<a href="https://github.com/daditsan/github-readme-stats">
+  <img width=940 heigth=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daditsan&theme=tokyonight" />
+</a>

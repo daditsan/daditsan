@@ -32,9 +32,7 @@
     <img src="https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,jest,mongodb,postgres,sequelize,redis,postman,supabase" />
   </a>
 </p>
-  
-## Miscellaneous
-
+<br/>
 <a href="https://github.com/daditsan/github-readme-stats">
   <img width=940 heigth=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daditsan&show_icons=true&rank_icon=percentile&theme=tokyonight" />
 </a>

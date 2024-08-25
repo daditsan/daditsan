@@ -2,6 +2,15 @@
   Hi there! I'm <a href="https://github.com/daditsan">Adytia Isanda</a>, a passionate software developer with interests in web development, mobile applications, AI engineering, and more.
 </div>
 
+## Tech Stacks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,jest,mongodb,postgres,sequelize,redis,postman,supabase" />
+  </a>
+</p>
+
+<!--- [![My Skills](https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,discord,jest,mongodb,postgres,sequelize,redis,postman,supabase,&theme=light)](https://skillicons.dev) --->
+
 <!--- ## 🚀 Projects
 
 - **[Project 1](https://github.com/your-username/project1)**: A brief description of what this project does.

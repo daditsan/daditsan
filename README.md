@@ -29,7 +29,7 @@
 ## Tech Stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,bootstrap,jest,mongodb,postgres,sequelize,redis,postman,supabase" />
+    <img src="https://skillicons.dev/icons?i=git,bash,nodejs,html,css,javascript,typescript,express,react,vite,nextjs,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,materialui,bootstrap,jest,mongodb,postgres,sequelize,redis,postman,supabase" />
   </a>
 </p>
 <br/>

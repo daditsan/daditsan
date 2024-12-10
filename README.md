@@ -21,7 +21,7 @@
 
 <br/>
 <div align="center">  
-Innovative and versatile software engineer with expertise in Full-Stack Development, Mobile Applications, and AI-Powered solutions. Passionate about building scalable, user-centric systems and delivering impactful digital experiences.
+Innovative and versatile Software Engineer with expertise in Full-Stack Development, Mobile Applications, and AI-Powered solutions. Passionate about building scalable, user-centric systems and delivering impactful digital experiences.
 </div>
 
 

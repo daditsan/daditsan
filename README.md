@@ -21,8 +21,7 @@
 
 <br/>
 <div align="center">  
-  Hi there! I'm <a href="https://github.com/daditsan">Adytia Isanda</a>, a passionate software developer with interests in Web Development, Mobile Applications, AI Engineering, and more.
-  Thanks for visiting my profile! Feel free to check out my repositories and reach out if you have any questions.
+Innovative and versatile software engineer with expertise in Full-Stack Development, Mobile Applications, and AI-Powered solutions. Passionate about building scalable, user-centric systems and delivering impactful digital experiences.
 </div>
 
 

@@ -32,7 +32,7 @@ Innovative and Versatile Software Engineer with expertise in Full-Stack Developm
   </a>
 </p>
 <br/>
-<a href="https://github.com/daditsan/github-readme-stats">
+<!-- <a href="https://github.com/daditsan/github-readme-stats">
   <img width=940 heigth=400 align="center" src="https://github-readme-stats.vercel.app/api?username=daditsan&show_icons=true&rank_icon=percentile&theme=tokyonight" />
 </a>
 <a href="https://github.com/daditsan/convoychat">
@@ -40,12 +40,12 @@ Innovative and Versatile Software Engineer with expertise in Full-Stack Developm
 </a>
 <a href="https://github.com/daditsan/github-readme-stats">
   <img width=940 heigth=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daditsan&theme=tokyonight" />
-</a>
+</a> -->
 
-<br/>
+<!-- <br/>
 <br/>
 <div align="center">
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Skynet+is+real.&author=Timothy+Stanley,+2024">
-</a>
+</a> -->
 </div>

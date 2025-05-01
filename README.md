@@ -1,5 +1,5 @@
 <div align="center">
-<a href="mailto:dityaisanda@gmail.com">
+<!-- <a href="mailto:dityaisanda@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://id.linkedin.com/in/adytia-isanda-441a8a232">
@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/profile/daditsan">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
-</div> 
+</div> --!>
 
 <br/>
 <div align="center">  

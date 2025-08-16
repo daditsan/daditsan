@@ -28,7 +28,7 @@ Software Engineer with expertise in Full-Stack Development, Mobile Applications,
 ## Tech Stacks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,html,css,javascript,typescript,nodejs,java,py,lua,express,react,vue,vite,nextjs,electron,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,materialui,bootstrap,jest,mongodb,postgres,sequelize,redux,redis,postman,supabase,regex,docker,vim,neovim,idea,vscode,linux,arch,ubuntu,mint,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=git,bash,html,css,javascript,typescript,nodejs,java,py,lua,express,nestjs,spring,react,vue,vite,nextjs,electron,aws,gcp,vercel,firebase,cloudflare,graphql,apollo,tailwind,materialui,bootstrap,jest,mongodb,postgres,sequelize,redux,redis,postman,supabase,regex,docker,vim,neovim,idea,vscode,linux,arch,ubuntu,mint,windows,apple" />
   </a>
 </p>
 <br/>
